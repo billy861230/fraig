@@ -1,2 +1,2 @@
 # fraig
-NTU DSnP final project
+usage: please refer to FraigProject.pdf
